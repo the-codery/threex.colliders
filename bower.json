@@ -1,0 +1,9 @@
+{
+  "name": "threex.colliders",
+  "version": "0.0.1",
+  "main": [
+    "threex.collider.js",
+    "threex.colliderhelper.js",
+    "threex.collidersystem.js"
+  ]
+}
